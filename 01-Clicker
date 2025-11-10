@@ -1,9 +1,0 @@
-This file will contain the respective files of my first attempt on creating a Clicker game from scratch.
-
-Goal: User earns gold by clicking on idling on the game. 
-Rules: 
-  1. User can't buy purchases if the amount of gold is not enough.
-  2. User needs to buy upgrades to earn more resources.
-  3. User can save its current progress.
-
-Success: user completes all levels, unblocks all upgrades and gets to 999 gold.
